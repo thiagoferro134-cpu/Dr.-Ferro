@@ -1,0 +1,5 @@
+{
+  "name": "MedPulse AI",
+  "description": "Clinical decision support system for emergency and ward environments, providing protocol consultation, medical calculators, and diagnostic assistance.",
+  "requestFramePermissions": ["microphone"]
+}
